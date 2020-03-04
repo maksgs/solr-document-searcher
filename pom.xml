@@ -13,7 +13,7 @@
         <org.springframework.version>3.2.0.RELEASE</org.springframework.version>
         <junit-version>4.11</junit-version>
         <com.jayway.jsonpath-version>0.8.1</com.jayway.jsonpath-version>
-        <com.fasterxml.jackson-version>2.1.1</com.fasterxml.jackson-version>
+        <com.fasterxml.jackson-version>2.10.3</com.fasterxml.jackson-version>
     </properties>
 
     <dependencies>
